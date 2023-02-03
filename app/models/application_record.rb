@@ -1,5 +1,6 @@
 class ApplicationRecord < ActiveRecord::Base
   primary_abstract_class
 
-  # Something strange is going on. This text shouldn't be here
+  # Creating some random text for messing things up
+
 end
